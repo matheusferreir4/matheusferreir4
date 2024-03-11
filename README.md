@@ -14,11 +14,15 @@
 
 <ul>
 
-  <li>C</li>
-  <li>C++</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JS</li>
+  <li>C;</li>
+  
+  <li>C++;</li>
+  
+  <li>HTML5;</li>
+  
+  <li>CSS3;</li>
+  
+  <li>JS.</li>
   
 </ul>
 
