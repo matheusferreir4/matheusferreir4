@@ -44,3 +44,8 @@
   
 </ul>
 
+<h2>Grupos de estudo</h2>
+<p>Esses são meus grupos de estudo:</p>
+
+<li><a href="https://github.com/GeaTSI" target="_self">GeaTSI</a></li>
+
