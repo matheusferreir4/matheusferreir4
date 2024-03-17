@@ -1,7 +1,7 @@
 <h1>Olá mundo!</h1>
 <p>Esse é o meu perfil no GITHUB.</p>
 
-<h2>Quem sou eu?></h2>
+<h2>Quem sou eu?</h2>
 
 <ul>
 
