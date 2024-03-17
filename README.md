@@ -39,9 +39,9 @@
 <p>Você também pode me encontrar aqui:</p>
 
 <ul>
-
-<li><a href="https://stackoverflow.com/users/23539891/matheus-ferreira?tab=profile" target="_blank">StackOverFlow ;</a></li>
+  
 <li><a href="www.linkedin.com/in/matheus-henrique-de-oliveira-ferreira-a935a62b7" target="_blank">Linkedin .</a> </li>
+<li><a href="https://stackoverflow.com/users/23539891/matheus-ferreira?tab=profile" target="_blank">StackOverFlow ;</a></li>
   
 </ul>
 
