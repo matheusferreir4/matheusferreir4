@@ -1,7 +1,7 @@
 <h1>Olá mundo!</h1>
 <p>Esse é o meu perfil no GITHUB.</p>
 
-<h2>Quem sou eu?</h2>
+<h2>Quem sou eu?></h2>
 
 <ul>
 
@@ -40,7 +40,8 @@
 
 <ul>
 
-<li><a href="https://stackoverflow.com/users/23539891/matheus-ferreira?tab=profile" target="_blank">StackOverFlow</a></li>
+<li><a href="https://stackoverflow.com/users/23539891/matheus-ferreira?tab=profile" target="_blank">StackOverFlow ;</a></li>
+<li><a href="www.linkedin.com/in/matheus-henrique-de-oliveira-ferreira-a935a62b7" target="_blank">Linkedin .</a> </li>
   
 </ul>
 
