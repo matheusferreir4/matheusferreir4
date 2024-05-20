@@ -1,54 +1,17 @@
-<h1>Olá mundo!</h1>
-<p>Esse é o meu perfil no GITHUB.</p>
+<h1>My skills</h1>
 
-<h2>Quem sou eu?</h2>
+<p>I have knowledge in C/C++, HTML, CSS, JavaScript, and Shell. Currently, I'm learning Python! 🐍</p>
 
-<ul>
-
-<li><p>Graduando no <a href="https://www.ifsudestemg.edu.br/barbacena" target="_blank">IFSEMG - Câmpus Barbacena.</a></p></li>
-<li><p>Meu curso: <a href="https://sig.ifsudestemg.edu.br/sigaa/public/curso/portal.jsf?id=527820&lc=pt_BR&nivel=G" target="_blank">Sistemas para Internet.</p></li>
-  
-</ul>
-
-<h2>Linguagens de programação</h2>
-<p>Essas são as linguagens que mais uso:</p>
-
-<h3>Back-end:</h3>
+<h1>About me</h1>
 
 <ul>
-
-  <li>C ;</li>
-  
-  <li>C++ .</li>
-  
+  <li>🔍 Currently, I'm seeking internship opportunities.</li>
+  <li>🎓 I'm a student at <a href="https://www.ifsudestemg.edu.br/barbacena" target="_blank">IFSEMG.</a></li>
+  <li>🚀 I've already developed some projects with my academic study group - <a href="https://github.com/GeaTSI" target="_blank">GeaTSI.</a></li>
+  <li>📊 I'm interested in data science.</li>
+  <li>💬 Talk to me here.</li>
 </ul>
 
-<h3>Front-end:</h3>
+<h1>Spotify playng</h1>
 
-<ul>
-
-  <li>HTML5 ;</li>
-
-  <li>CSS3 ;</li>
-
-  <li>Java Script .</li>
-  
-</ul>
-
-<h2>Outras redes</h2>
-<p>Você também pode me encontrar aqui:</p>
-
-<ul>
-  
-<li><a href="https://www.facebook.com/profile.php?id=61557998273650" target="_blank">Facebook ;</a></li>
-<li><a href="https://www.instagram.com/matheusferre1r4?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram ;</a></li>
-<li><a href="www.linkedin.com/in/matheus-henrique-de-oliveira-ferreira-a935a62b7" target="_blank">Linkedin ;</a> </li>
-<li><a href="https://stackoverflow.com/users/23539891/matheus-ferreira?tab=profile" target="_blank">StackOverFlow .</a></li>
-  
-</ul>
-
-<h2>Grupos de estudo</h2>
-<p>Esses são meus grupos de estudo:</p>
-
-<li><a href="https://github.com/GeaTSI" target="_self">GeaTSI</a></li>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DD7eSuYSC5xk2ArU62esN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
