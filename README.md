@@ -26,6 +26,28 @@
 
 Here are some of the projects I've worked on:
 
+## 🖼️➡️📄 Img2PDF - Conversor Online de Imagens para PDF
+
+![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/img2pdf)
+![GitHub license](https://img.shields.io/github/license/seu-usuario/img2pdf)
+![Cloudflare Pages](https://img.shields.io/badge/Deployed_on-Cloudflare_Pages-f38020?logo=cloudflare)
+
+**Descrição:** Conversor web gratuito que transforma imagens (JPEG, PNG, WebP) em PDF diretamente no navegador, sem armazenar os arquivos em servidores.
+
+**Tecnologias:** HTML5, CSS3, JavaScript, jsPDF
+
+**Recursos:**
+- Interface drag-and-drop
+- Pré-visualização de imagens
+- Conversão rápida e segura
+- Totalmente responsivo
+
+🔗 **Live Demo:** [https://img2pdf.pages.dev](https://img2pdf.pages.dev)  
+📂 **Repositório:** [github.com/seu-usuario/img2pdf](https://github.com/seu-usuario/img2pdf)
+
+---
+
+## Outros Projetos
 - **Project 1**: Description of project 1.
 - **Project 2**: Description of project 2.
 - **Project 3**: Description of project 3.
@@ -35,8 +57,13 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me via LinkedIn or Email.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue.svg" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/Email-red.svg" alt="Email">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
-
-
