@@ -19,7 +19,7 @@
   <li>🚀 I've already developed some projects with my academic study group - <a href="https://github.com/GeaTSI" target="_blank">GeaTSI.</a></li>
   <li>📊 I'm interested in data science.</li>
   <li>💬 Talk to me here.</li>
-  <li>🐧 Proud Manjaro Linux user - because who needs simplicity when you can have a challenge, right?</li>
+  <li>🐧 Proud Fedora Linux user - because who needs simplicity when you can have a challenge, right?</li>
 </ul>
 
 # Projects
