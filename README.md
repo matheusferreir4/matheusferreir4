@@ -28,8 +28,8 @@ Here are some of the projects I've worked on:
 
 ## 🖼️➡️📄 Img2PDF - Conversor Online de Imagens para PDF
 
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/img2pdf)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/img2pdf)
+![GitHub last commit](https://img.shields.io/github/last-commit/matheusferreir4/img2pdf)
+![GitHub license](https://img.shields.io/github/license/matheusferreir4/img2pdf)
 ![Cloudflare Pages](https://img.shields.io/badge/Deployed_on-Cloudflare_Pages-f38020?logo=cloudflare)
 
 **Descrição:** Conversor web gratuito que transforma imagens (JPEG, PNG, WebP) em PDF diretamente no navegador, sem armazenar os arquivos em servidores.
