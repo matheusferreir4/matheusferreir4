@@ -26,6 +26,28 @@
 
 Here are some of the projects I've worked on:
 
+## 💻 DevNotes - Code-Friendly Notepad
+
+![GitHub last commit](https://img.shields.io/github/last-commit/matheusferreir4/devnotes)
+![GitHub license](https://img.shields.io/github/license/matheusferreir4/devnotes) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
+
+**Descrição:** Bloco de notas para desenvolvedores com realce de sintaxe em tempo real, temas personalizáveis e salvamento automático. Inspirado no VS Code!
+
+**Tecnologias:** HTML5, CSS3, JavaScript, Prism.js, LocalStorage
+
+**Recursos:**
+- Realce de sintaxe para 180+ linguagens
+- Tema escuro/claro com persistência
+- Grid responsivo de notas
+- Atalhos de teclado (Ctrl+N)
+- Contador de notas em tempo real
+
+🔗 **Live Demo:** [https://devnotes.pages.dev](https://devnotes.pages.dev)  
+📂 **Repositório:** [github.com/matheusferreir4/devnotes](https://github.com/matheusferreir4/devnotes)
+
+---
+
 ## 🖼️➡️📄 Img2PDF - Conversor Online de Imagens para PDF
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/matheusferreir4/img2pdf)
@@ -43,14 +65,13 @@ Here are some of the projects I've worked on:
 - Totalmente responsivo
 
 🔗 **Live Demo:** [https://img2pdf.pages.dev](https://img2pdf.pages.dev)  
-📂 **Repositório:** [github.com/seu-usuario/img2pdf](https://github.com/seu-usuario/img2pdf)
+📂 **Repositório:** [github.com/matheusferreir4/img2pdf](https://github.com/matheusferreir4/img2pdf)
 
 ---
 
 ## Outros Projetos
 - **Project 1**: Description of project 1.
 - **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
 
 # Contact
 
